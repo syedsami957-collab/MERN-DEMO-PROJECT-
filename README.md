@@ -2,7 +2,7 @@
 
 ### Create a network for the docker containers
 
-`docker network create demo`
+`docker network create demo.`
 
 ### Build the client 
 
@@ -36,5 +36,5 @@ docker build -t mern-backend .
 
 ## Using Docker Compose
 
-`docker compose up -d`
+`docker compose up -d` 
 
